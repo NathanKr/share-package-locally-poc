@@ -1,6 +1,8 @@
 <h2>Motivation</h2>
 share code between projects. in this poc the project are on the same repository but in general they are on different repositories and this should work any way
 
+<h2>Design</h2>
+use npm via link \ unlink
 
 <h2>Setup</h2>
 <h3>package (provider)</h3>
